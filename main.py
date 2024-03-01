@@ -29,8 +29,8 @@ async def data_handler(json_api):
 
 
 #my bot
-bot = Bot(token="6635906742:AAE30y2pQOVWP6p0SRAj-KOjNDutAJ-b8ME")
-BOT_USERNAME: Final = '@instagram_up_down_bot'
+bot = Bot(token="")
+BOT_USERNAME: Final = ''
 
 #buttons
 start_keyboard = [['👨‍💻دوره ها👩‍💻', 'خدمات 🌐'], ['درباره من ℹ️','ارتباط با من 🆔'], ['چگونه با من آشنا شدی 📱']]
